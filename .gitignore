@@ -1,1 +1,4 @@
 /target/
+*.jar
+*.zip
+*.tar.xz
